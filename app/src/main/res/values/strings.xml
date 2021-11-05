@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">FUTS</string>
+
+    //Menu
+    <string name="main_menu_country">Country</string>
+    <string name="main_menu_home">Home</string>
+    <string name="main_menu_calendar">Calendar</string>
+
+    <string name="league_menu_fixtures">Fixtures</string>
+    <string name="league_menu_table">Table</string>
+    <string name="league_menu_goals">Goals</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="fixture_day">Monday</string>
+
+    <!--ContentDescription-->
+    <string name="fave">fave</string>
+
+    <!--Table-->
+    <string name="competition">Primeira Liga</string>
+    <string name="games_played">PLD</string>
+    <string name="games_won">W</string>
+    <string name="games_drawn">D</string>
+    <string name="games_lost">L</string>
+    <string name="team_points">PTS</string>
+
+    <!--Goals-->
+    <string name="goals_scorers">Top Scorers</string>
+    <string name="goals">Goals</string>
+    <string name="assists">Assists</string>
+    <string name="player_games_played">PLD</string>
+    <string name="select_a_date">select a date</string>
+    <string name="prev">prev</string>
+    <string name="current_date">current date</string>
+    <string name="next">next</string>
+
+
+    //Calendar
+    <string name="text_sunday">Su</string>
+    <string name="text_monday">Mo</string>
+    <string name="text_tuesday">Tu</string>
+    <string name="text_wednesday">We</string>
+    <string name="text_thursday">Th</string>
+    <string name="text_friday">Fr</string>
+    <string name="text_saturday">Sa</string>
+
+</resources>

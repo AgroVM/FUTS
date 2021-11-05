@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fixtures"
+        android:icon="@drawable/ic_calendar"
+        android:title="@string/league_menu_fixtures"/>
+    <item
+        android:id="@+id/table"
+        android:enabled="true"
+        android:icon="@drawable/ic_table"
+        android:title="@string/league_menu_table"/>
+
+    <item
+        android:id="@+id/goals"
+        android:icon="@drawable/ic_kick"
+        android:title="@string/league_menu_goals"/>
+
+</menu>
